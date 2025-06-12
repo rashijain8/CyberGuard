@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">CyberGuard</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="interactive_modules">Interactive Modules</string>
+    <string name="real_time_tips">Real-Time Security Tips</string>
+    <string name="common_threats">Common Cyber Threats</string>
+    <string name="lorem_ipsum">
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+   </string>
+    <string name="email_fab_description">Send an email</string>
+    <string name="module_content">
+       1. Use strong passwords.\n
+       2. Enable two-factor authentication.\n
+       3. Avoid phishing emails.
+   </string>
+    <string name="common_cyber_threats">Common Cyber Threats</string>
+
+    <!-- Terminal Strings -->
+    <string name="enter_command">Enter command...</string>
+    <string name="run_command">Run</string>
+    <string name="terminal">Terminal</string>
+
+    <string name="threats_content">
+       1. Phishing Attacks:\n
+          - Cybercriminals send fake emails or messages to trick you into revealing sensitive information.\n
+          - Example: A fake email claiming to be from your bank asking for your login credentials.\n\n
+
+
+       2. Malware:\n
+          - Malicious software designed to damage or gain unauthorized access to your device.\n
+          - Types: Viruses, worms, ransomware, spyware.\n
+          - Prevention: Install antivirus software and avoid downloading files from untrusted sources.\n\n
+
+
+       3. Ransomware:\n
+ - A type of malware that encrypts your files and demands payment for their release.\n
+          - Prevention: Regularly back up your data and avoid clicking on suspicious links.\n\n
+
+
+       4. Social Engineering:\n
+          - Attackers manipulate you into divulging confidential information.\n
+          - Example: Pretending to be a tech support agent and asking for your password.\n\n
+
+
+       5. Man-in-the-Middle (MITM) Attacks:\n
+          - Attackers intercept communication between two parties to steal data.\n
+          - Prevention: Use encrypted connections (HTTPS) and avoid public Wi-Fi for sensitive transactions.\n\n
+
+
+       6. Password Attacks:\n
+          - Attackers use brute force or dictionary attacks to guess your password.\n
+          - Prevention: Use strong, unique passwords and enable 2FA.\n\n
+
+
+       7. IoT Vulnerabilities:\n
+          - Internet of Things (IoT) devices often have weak security, making them easy targets.\n
+          - Prevention: Change default passwords and keep firmware updated.
+   </string>
+
+
+    <string name="tips_content">
+       1. Use Strong Passwords:\n
+          - Create passwords with at least 12 characters, including numbers, symbols, and uppercase/lowercase letters.\n
+          - Avoid using common words or personal information.\n\n
+
+
+       2. Enable Two-Factor Authentication (2FA):\n
+          - Add an extra layer of security to your accounts by enabling 2FA.\n
+          - Use an authenticator app or SMS-based verification.\n\n
+
+
+       3. Keep Software Updated:\n
+          - Regularly update your operating system, apps, and antivirus software to patch vulnerabilities.\n\n
+
+
+       4. Be Cautious of Phishing Emails:\n
+          - Do not click on suspicious links or download attachments from unknown senders.\n
+          - Verify the sender\'s email address before responding.\n\n
+
+
+       5. Use a VPN on Public Wi-Fi:\n
+          - Avoid accessing sensitive information on public Wi-Fi networks.\n
+          - Use a Virtual Private Network (VPN) to encrypt your internet traffic.\n\n
+ 6. Backup Your Data:\n
+          - Regularly back up important files to an external drive or cloud storage.\n
+          - Ensure backups are encrypted and secure.\n\n
+
+
+       7. Monitor Your Accounts:\n
+          - Regularly check your bank and online accounts for unauthorized transactions.\n
+          - Set up alerts for suspicious activity.
+   </string>
+
+
+</resources>
